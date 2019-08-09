@@ -11,8 +11,8 @@ An Unsupervised Outlier Detection Model using Isolation Forest Algorithm and Loc
 The dataset includes about 28000 PCA dimensionality reduced credit card transactions with fraudulence.
 
 # Procedural Workflow
-Step 1. Import packages.
-Step 2. EDA.
-Step 3. Visualization using histogram and corr matrix with heatmap.
-Step 4. Training model with LOF and Iso. Forest algorithms.
-Step 5. Testing and accuracy evaluation.
+1. Import packages.
+2. EDA.
+3. Visualization using histogram and corr matrix with heatmap.
+4. Training model with LOF and Iso. Forest algorithms.
+5. Testing and accuracy evaluation.
